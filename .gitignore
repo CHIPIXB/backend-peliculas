@@ -1,0 +1,8 @@
+# Ignorar la clave secreta
+.env
+
+# Ignorar dependencias
+node_modules/
+
+# Archivos del sistema
+.DS_Store
